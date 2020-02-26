@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
 html,
 body,
 div,
@@ -92,7 +94,7 @@ section {
 html,
 body {
 	background: #cc6600;
-	font-family:'https://fonts.googleapis.com/css?family=Trade+Winds&display=swap',
+	font-family:'Trade+Winds',
 		helvetica,
 		arial,
 		sans-serif;
